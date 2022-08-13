@@ -86,6 +86,7 @@
 <p align="center">
 <a href="https://gist.github.com/ChamelaAluthgedara"><img src="https://profile-counter.glitch.me/{ChamelaAluthgedara}/count.svg" alt="ChamelaAluthgedara :: Visitor's Count" /></a>
 </p>
- ### Organizations that I have contributed to:
+
+### Organizations that I have contributed to:
 
 [<img src= "https://avatars.githubusercontent.com/u/64143671?s=88&v=4" height= "50" width= "50">](https://github.com/EddieHubCommunity)
