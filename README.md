@@ -12,7 +12,7 @@
 🌱&nbsp;I'm on track for learning more about Game Development, Machine Learning, and Flutter.\
 ✍️&nbsp;In my free time, I like developing Android mobile apps as a hobby/side hustle.\
 ✉️&nbsp;You can shoot me an email at chamelalaboratory@gmail.com. I'll try to respond as soon as I can.\
-📄&nbsp;Please visit my [Website](https://www.chamelalaboratory.web.app) for more details about me. I'm open to feedback and suggestions!
+📄&nbsp;Please visit my [website](https://chamelalaboratory.web.app) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
