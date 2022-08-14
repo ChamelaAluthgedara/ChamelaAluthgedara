@@ -60,7 +60,7 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@Chamela"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chamela&theme=gotham&hide_border=false&layout=compact&hide_title=false&langs_count=14"  width="58%" alt="@Chamela's wakatime stats"/></a>
+<a href="https://wakatime.com/@Chamela"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chamela&theme=gotham&hide_border=true&layout=compact&hide_title=false&langs_count=14"  width="58%" alt="@Chamela's wakatime stats"/></a>
 <a href="https://github.com/ChamelaAluthgedara?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ChamelaAluthgedara&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Chamela's trophy stats"/></a>
 </p>
 
