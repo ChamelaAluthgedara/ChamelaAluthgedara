@@ -42,7 +42,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![ChamelaAluthgedara GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamelaAluthgedara&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ChamelaAluthgedara&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChamelaAluthgedara&theme=dark)](https://git.io/streak-stats)
 <!-- <p align="center">
 <a href="https://github.com/ChamelaAluthgedara?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=ChamelaAluthgedara&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Chamela's github-readme-stats"/></a>
 <a href="https://github.com/ChamelaAluthgedara?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ChamelaAluthgedara&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Chamela's github-readme-streak-stats"/></a>
