@@ -50,25 +50,26 @@
 
 
 <!-- activity graph heroku-app start -->
-<p align="center">
+<!-- <p align="center">
     <a href="https://wakatime.com/@Chamela">
         <img src="https://activity-graph.herokuapp.com/graph?username=ChamelaAluthgedara&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="99%" alt="activity graph">
     </a>
-</p>
+</p> -->
 <!-- activity graph heroku-app end -->
-
-
-<p align="center">
-<a href="https://wakatime.com/@Chamela"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chamela&theme=gotham&hide_border=true&layout=compact&hide_title=false&langs_count=14"  width="58%" alt="@Chamela's wakatime stats"/></a>
-<a href="https://github.com/ChamelaAluthgedara?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ChamelaAluthgedara&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Chamela's trophy stats"/></a>
-</p>
-
-
-<p align="center">
+<p align="left">
 <a href="https://github.com/pulls?q=is%3Apr+author%3AChamelaAluthgedara+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChamelaAluthgedara&theme=github_dark&utcOffset=4"  width="31%" alt="@Chamela's productive-time"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3AChamelaAluthgedara+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChamelaAluthgedara&theme=github_dark&hide_border=false"  width="64%" alt="@Chamela's profile-details"/></a>
 </p>
  
+
+<p align="left">
+<!-- <a href="https://wakatime.com/@Chamela"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chamela&theme=gotham&hide_border=true&layout=compact&hide_title=false&langs_count=14"  width="58%" alt="@Chamela's wakatime stats"/></a> -->
+ <a href="https://wakatime.com/@Chamela"><img src="https://wakatime.com/share/@Chamela/0258ee8b-915b-476c-b3b2-d4ccdad357ff.png" width="58%" alt="@Chamela's wakatime stats"/></a> 
+<a href="https://github.com/ChamelaAluthgedara?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ChamelaAluthgedara&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Chamela's trophy stats"/></a>
+</p>
+
+
+
 
 
 
